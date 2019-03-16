@@ -1,0 +1,3 @@
+﻿  opengl_rgb_to_yuv.cpp
+c:\users\ye\source\repos\opengl_rgb_to_yuv\opengl_rgb_to_yuv\simpleshader.h(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  opengl_rgb_to_yuv.vcxproj -> C:\Users\YE\source\repos\opengl_rgb_to_yuv\x64\Debug\opengl_rgb_to_yuv.exe
